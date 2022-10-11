@@ -43,6 +43,7 @@ table {
 
 td {
     width: 25%;
+    padding: 5px;
 }
 
 .screen {
@@ -82,7 +83,7 @@ button {
     border-radius: 60px;
     background-color: #444444;
     width: 100%;
-    height: 100%;
+    height: 5vh;
     border: none;
 }
 
